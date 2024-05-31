@@ -1,19 +1,5 @@
-## Hi there 👋
 
-<!--
-**Adarsh-ch/Adarsh-ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div style='display: flex; justify-content: space-around; '  >
 <div align="left" style="padding-top: 20px;text-align: center;" >
 <h1 align="center" margin='20px' >Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Adarsh chaturvedi </h1>
@@ -21,7 +7,8 @@ Here are some ideas to get you started:
 <p align="center" style="width: 30px; margin-left: 30%; margin-top: 30px;"    > <img style="width: 150px;" src="https://komarev.com/ghpvc/?username=Payalsahuj&label=Profile%20views&color=0e75b6&style=flat" alt="Adarsh chaturvedi" /> </p>
 
 </div>
-# 💫 About Me:
+
+## 💫 About Me:
 
 🌱 I’m currently learning JAVA,MERN<br><br>💬 Ask me about java,html,css,bootstrap,sass,Javascript,React<br><br>📫 How to reach me adarshchaturvedi98@gmail.com<br>
 
