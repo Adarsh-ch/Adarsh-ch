@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div style='display: flex; justify-content: space-around; '  >
+<div align="left" style="padding-top: 20px;text-align: center;" >
+<h1 align="center" margin='20px' >Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Adarsh chaturvedi </h1>
+<h3 align="center" margin='20px' >A passionate and aspiring Full Stack developer from India</h3>
+<p align="center" style="width: 30px; margin-left: 30%; margin-top: 30px;"    > <img style="width: 150px;" src="https://komarev.com/ghpvc/?username=Payalsahuj&label=Profile%20views&color=0e75b6&style=flat" alt="Adarsh chaturvedi" /> </p>
+
+</div>
 # 💫 About Me:
 
 🌱 I’m currently learning JAVA,MERN<br><br>💬 Ask me about java,html,css,bootstrap,sass,Javascript,React<br><br>📫 How to reach me adarshchaturvedi98@gmail.com<br>
