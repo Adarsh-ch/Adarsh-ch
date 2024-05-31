@@ -10,11 +10,21 @@
 
 ## 💫 About Me:
 
-🌱 I’m currently learning JAVA,MERN<br><br>💬 Ask me about java,html,css,bootstrap,sass,Javascript,React<br><br>📫 How to reach me adarshchaturvedi98@gmail.com<br>
+- 🧠 I’m currently learning **React**
 
-## 🌐 Socials:
+- 📝 I regularly read articles on Technology.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/adarsh-ch)
+- 💬 Ask me about **react, vanilla javascript**
+
+- 📫 How to reach me **adarshchaturvedi98@gmail.com**
+
+<!-- ## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/adarsh-ch) -->
+<h3 align="left">Connect with me:</h3>
+<p align="left" style=' width:"90%"; margin: auto; padding: 23px;display: flex; gap: 18px; '>
+<a href="https://github.com/Adarsh-ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="payal" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/adarsh-ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adarsh" height="30" width="40" /></a>
 
 # 💻 Tech Stack:
 
@@ -25,7 +35,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Adarsh-ch&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-ch&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-ch&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
 
 ## 🏆 GitHub Trophies
 
