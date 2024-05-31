@@ -16,7 +16,7 @@
   <a href="#-about-me">About Me</a> •
   <a href="#-socials">Contact Me</a> •
   <a href="#-current-projects">Current Projects</a> •
-  <a href="#-tech-stacks">Tech stacks</a> •
+  <a href="#-tech-stack">Tech stacks</a> •
   
 </p>
 
@@ -45,7 +45,7 @@
 - **[Project 1](https://github.com/Kranti00/Betwa-Interface-015)**: Crafted a functional Zepto clone utilizing HTML, CSS, and JavaScript, complemented by a JSON server for data management. This project replicates the essence of Zepto's interface, providing users with a familiar browsing experience while demonstrating proficiency in front-end development and server-side integration.
 - **[Project 2](https://github.com/Adarsh-ch/Project-LearnWise)**: Designed and developed a responsive platform for Khan academy using HTML, CSS, and Bootstrap, ensuring a seamless experience for users. Implemented modern design principles to showcase various courses provided by Khan academy.
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
