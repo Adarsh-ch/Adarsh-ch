@@ -1,12 +1,24 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Passionate+about+creating+great+user+experiences" alt="Typing SVG">
+</p>
+
 <div align="center" style="background-image: url('https://readme.com/static/img/home/footer-confetti-background.png');padding: 10px; " ><img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="70%" style=" margin='auto'; height="250px"; padding='60px'" / ></div>
 
 <div style='display: flex; justify-content: space-around; '  >
 <div align="left" style="padding-top: 20px;text-align: center;" >
-<h1 align="center" margin='20px' >Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Adarsh chaturvedi </h1>
+<h1 align="center" margin='20px' >Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Adarsh Chaturvedi </h1>
 <h3 align="center" margin='20px' >A passionate and aspiring Full Stack developer from India</h3>
 <!-- <p align="center" style="width: 30px; margin-left: 30%; margin-top: 30px;"    > <img style="width: 150px;" src="https://komarev.com/ghpvc/?username=Payalsahuj&label=Profile%20views&color=0e75b6&style=flat" alt="Adarsh chaturvedi" /> </p> -->
 
 </div>
+
+<p align="center">
+  <a href="#-about-me">About Me</a> •
+  <a href="#-socials">Contact Me</a> •
+  <a href="#-current-projects">Current Projects</a> •
+  <a href="#-tech-stacks">Tech stacks</a> •
+  
+</p>
 
 ## 💫 About Me:
 
@@ -27,6 +39,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-ch/)
 
 <!-- <a href="www.linkedin.com/in/adarsh-ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adarsh" height="30" width="40" /></a> -->
+
+## 💼 Current Projects
+
+- **[Project 1](https://github.com/Kranti00/Betwa-Interface-015)**: Crafted a functional Zepto clone utilizing HTML, CSS, and JavaScript, complemented by a JSON server for data management. This project replicates the essence of Zepto's interface, providing users with a familiar browsing experience while demonstrating proficiency in front-end development and server-side integration.
+- **[Project 2](khan-academy-clone-b34.netlify.app/)**: Designed and developed a responsive platform for Khan academy using HTML, CSS, and Bootstrap, ensuring a seamless experience for users. Implemented modern design principles to showcase various courses provided by Khan academy.
 
 # 💻 Tech Stack:
 
