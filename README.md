@@ -51,9 +51,20 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Adarsh-ch&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Adarsh-ch&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-ch&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-ch&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-ch&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
+
+<p align="center">
+  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api?username=Adarsh-ch&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false">
+</p>
+
+---
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-ch&theme=tokyonight&hide_border=true"><br/>
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-ch&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
+</p>
 
 ## 🏆 GitHub Trophies
 
