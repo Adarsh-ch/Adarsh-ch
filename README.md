@@ -21,9 +21,11 @@
 ## 🌐 Socials:
 
 <!-- <h3 align="left">Connect with me:</h3> -->
-<p align="left" style=' width:"90%"; margin: auto; padding: 23px;display: flex; gap: 18px; '>
-<a href="https://github.com/Adarsh-ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="payal" height="30" width="40" /></a>
+<!-- <p align="left" style=' width:"90%"; margin: auto; padding: 23px;display: flex; gap: 18px; '>
+<a href="https://github.com/Adarsh-ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="payal" height="30" width="40" /></a> -->
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/adarsh-ch)
+
 <!-- <a href="www.linkedin.com/in/adarsh-ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adarsh" height="30" width="40" /></a> -->
 
 # 💻 Tech Stack:
